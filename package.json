@@ -1,0 +1,16 @@
+{
+  "name": "pointwhoissharingatsharepoint",
+  "version": "1.0.0",
+  "description": "Fetch permission and sharing data at files and folders of sites at Sharepoint using Microsoft Graph API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "drLiTH7",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node": "^2.15.0",
+    "axios": "^1.7.7"
+  }
+}
